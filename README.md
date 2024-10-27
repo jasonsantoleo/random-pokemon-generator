@@ -1,4 +1,4 @@
-# rendom-pokemon-generator
+# random-pokemon-generator
 
 welcome to random pikachu generator
   This project will let you create the new pokemon image with a click
